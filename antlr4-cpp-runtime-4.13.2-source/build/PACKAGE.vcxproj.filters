@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\CMakeFiles\25d02c006fb58561c18edee614c601b5\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2675C951-541B-3990-8235-368367485682}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

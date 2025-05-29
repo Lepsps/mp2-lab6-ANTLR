@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/692d8f2a7cfb43840502e966e987bba8/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/a0c0b7bcf32c5ff7d3649df6ee831960/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/CMakeFiles/8b1bcb0dedb55133c2583957fc891ba1/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

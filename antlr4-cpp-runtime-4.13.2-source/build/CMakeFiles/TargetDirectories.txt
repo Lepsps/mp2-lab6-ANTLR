@@ -1,0 +1,9 @@
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/CMakeFiles/PACKAGE.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/CMakeFiles/INSTALL.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/runtime/CMakeFiles/antlr4_shared.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/runtime/CMakeFiles/PACKAGE.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/runtime/CMakeFiles/RUN_TESTS.dir
+C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/runtime/CMakeFiles/INSTALL.dir

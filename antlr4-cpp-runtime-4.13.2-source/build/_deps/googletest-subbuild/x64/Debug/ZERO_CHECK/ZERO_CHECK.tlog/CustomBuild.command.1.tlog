@@ -1,0 +1,10 @@
+^C:\USERS\ADMINISTRATOR\DESKTOP\ANTR_SCRIPTS\ANTLR4-CPP-RUNTIME-4.13.2-SOURCE\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\692D8F2A7CFB43840502E966E987BBA8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild -BC:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Administrator/Desktop/antr_scripts/antlr4-cpp-runtime-4.13.2-source/build/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

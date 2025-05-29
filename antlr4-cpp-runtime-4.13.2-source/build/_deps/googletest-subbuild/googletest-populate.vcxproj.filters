@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\8b1bcb0dedb55133c2583957fc891ba1\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\a0c0b7bcf32c5ff7d3649df6ee831960\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\692d8f2a7cfb43840502e966e987bba8\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Administrator\Desktop\antr_scripts\antlr4-cpp-runtime-4.13.2-source\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{568905AD-3F6B-339D-B708-12EEA13D1108}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
